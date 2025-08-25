@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+</head>
+<body>
+<h2>Welcome, {{ session['username'] }}</h2>
+<p>Total Expense: ₹{{ total_expense }}</p>
+<a href="{{ url_for('add_expense') }}">Add Expense</a> | 
+<a href="{{ url_for('logout') }}">Logout</a>
+
+<h3>Expenses</h3>
+<table border="1">
+    <tr>
+        <th>Amount</th>
+        <th>Category</th>
+        <th>Date</th>
+        <th>Action</th>
+    </tr>
+    {% for expense in expenses %}
+    <tr>
+        <td>₹{{ expense[2] }}</td>
+        <td>{{ expense[3] }}</td>
+        <td>{{ expense[4] }}</td>
+        <td><a href="{{ url_for('delete_expense', id=expense[0]) }}">Delete</a></td>
+    </tr>
+    {% endfor %}
+</table>
+</body>
+</html>
