@@ -17,7 +17,4 @@ A **full-stack Expense Tracker** built with **Flask (Python)** and **MySQL**, de
 - **Backend:** Python (Flask Framework)  
 - **Database:** MySQL (via XAMPP / local server)  
 - **Frontend:** HTML, CSS, Jinja2 Templates  
-
----
-
-## 📂 Project Structure  
+ 
