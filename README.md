@@ -31,4 +31,4 @@ Feel free to fork this repo and submit a pull request.
 ⚡ “Track your expenses, take control of your finances.”
 
 ## 👩‍💻 Developed By  
-✨Ashwini Vishal Hebbali
+**✨Ashwini Vishal Hebbali**
