@@ -1,6 +1,6 @@
 # 💰 Flask Expense Tracker  
 
-A **full-stack Expense Tracker** built with **Flask (Python)** and **MySQL**, designed to help users log, manage, and view their expenses with ease.  
+A **full-stack Expense Tracker** built with **Flask (Python)** and **MySQL**, designed to help users log, manage, and view their expenses with ease. 
 
 ---
 
