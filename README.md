@@ -9,7 +9,7 @@ A **full-stack Expense Tracker** built with **Flask (Python)** and **MySQL**, de
 - 📝 **Add, View, and Manage Expenses**  
 - 💾 **Database integration with MySQL**  
 - 🎨 **Responsive UI (HTML + CSS + Jinja Templates)**  
-- ⚡ **Flash messages for real-time feedback**  
+- ⚡ **Flash messages for real-time feedback**   
 
 ---
 
