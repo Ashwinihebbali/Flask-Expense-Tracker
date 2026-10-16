@@ -2,7 +2,7 @@
    
 A **full-stack Expense Tracker** built with **Flask (Python)** and **MySQL**, designed to help users log, manage, and view their expenses with ease.
 
----
+--- 
 
 ## 🚀 Features  
 - 🔐 **User Registration & Login**  
